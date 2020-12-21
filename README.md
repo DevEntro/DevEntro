@@ -41,9 +41,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SumitKumarCoding/CodingBat/pull/1) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-2. 💪 Opened PR [#1](https://github.com/SumitKumarCoding/CodingBat/pull/1) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-3. 💪 Opened PR [#6](https://github.com/AyushSehrawat/Ayu.py/pull/6) in [AyushSehrawat/Ayu.py](https://github.com/AyushSehrawat/Ayu.py)
+1. 🗣 Commented on [#2](https://github.com/SumitKumarCoding/CodingBat/issues/2) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+2. 🎉 Merged PR [#2](https://github.com/SumitKumarCoding/CodingBat/pull/2) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+3. 🎉 Merged PR [#1](https://github.com/SumitKumarCoding/CodingBat/pull/1) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
 <!--END_SECTION:activity-->
 
 </details>  
