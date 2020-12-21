@@ -16,18 +16,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Sumit_Kumar-D14836?&logo=gmail&style=for-the-badge)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sumitkumarcoding@gmail.com&tf=1)
 
 ### My Setup:
-[![Processor](https://img.shields.io/badge/Intel-Pentium_4405u_-08d9d6?style=for-the-badge&logo=intel&logoColor=white)](#)
-[![Graphics](https://img.shields.io/badge/INTEL-HD_GRAPHICS_510-08d9d6?style=for-the-badge&logo=intel&logoColor=white)](#)
-[![Device](https://img.shields.io/badge/Windows-dell_vostro_15_3568-08d9d6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Processor](https://img.shields.io/badge/Intel-Pentium_4405u_-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![Graphics](https://img.shields.io/badge/INTEL-HD_GRAPHICS_510-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![Device](https://img.shields.io/badge/Windows-dell_vostro_15_3568-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/topics/python)
-[<img align="left" alt="Cplusplus" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/topics/cplusplus)
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/topics/github)
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
+[<img align="left" width="128" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/topics/python)
+[<img align="left" width="128" alt="Cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/topics/cplusplus)
+[<img align="left" width="128" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/topics/github)
+[<img align="left" width="128" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/topics/visual-studio-code)
 
 
 <br />
