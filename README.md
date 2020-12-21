@@ -32,7 +32,7 @@
 [<img align="left" alt="Cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/topics/cplusplus)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/topics/github)
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/topics/visual-studio-code)
-
+<br>
 ---
 
 <details>
