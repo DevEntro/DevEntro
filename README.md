@@ -13,7 +13,7 @@
 [![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/14157851?color=08d9d6&label=StackOverFlow%20Reputation)](https://stackoverflow.com/users/14157851/sumit-kumar)
 [![GitHub Followers](https://img.shields.io/github/followers/sumitkumarcoding?color=08d9d6&label=Github%20Followers)](https://github.com/SumitKumarCoding)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sumitkumarcoding?color=08d9d6&label=Reddit%20Karma)](https://www.reddit.com/user/SumitKumarCoding)
-[![Gmail](https://img.shields.io/badge/Gmail-SumitKumarCoding!-08d9d6?)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sumitkumarcoding@gmail.com&tf=1)
+[![Gmail](https://img.shields.io/badge/Gmail-SumitKumarCoding-08d9d6?)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sumitkumarcoding@gmail.com&tf=1)
 
 ### My Setup:
 [![Processor](https://img.shields.io/badge/Intel-Pentium_4405u_-08d9d6?style=for-the-badge&logo=intel&logoColor=white)](#)
