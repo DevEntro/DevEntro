@@ -1,4 +1,4 @@
-### Hello There, I'm Sumit - Python Beginner 👋
+### Hello There, I'm Sumit - Python Beginner 👋 <img align="right" src="https://komarev.com/ghpvc/?username=sumitkumarcoding&style=flat&label=Profile+Views&color=181717">
 
 ## I'm a High School Student 👨‍🎓 and Beginner Python Developer 👨‍💻                 
 
@@ -32,11 +32,16 @@
 [<img align="left" alt="Cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/topics/cplusplus)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/topics/github)
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/topics/visual-studio-code)
+<br>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarcoding&layout=compact)](#)
+
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
 <br>
 
 ---
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -56,3 +61,4 @@
 </details>
 
 ---
+<img align="right" src="https://gitwar.herokuapp.com/badge?username=sumitkumarcoding&label=Profile+Score&logo=none"></img>
