@@ -24,10 +24,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" width="128" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/topics/python)
-[<img align="left" width="128" alt="Cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/topics/cplusplus)
-[<img align="left" width="128" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/topics/github)
-[<img align="left" width="128" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/topics/visual-studio-code)
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/topics/python)
+[<img align="left" alt="Cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/topics/cplusplus)
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/topics/github)
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/topics/visual-studio-code)
 
 
 <br />
@@ -37,11 +37,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
 </details>
