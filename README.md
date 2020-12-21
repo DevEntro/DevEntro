@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[![Discord](https://img.shields.io/discord/790214708694089739?color=08d9d6&label=Discord%20Server)](https://dsc.gg/cp)
-[![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/14157851?color=08d9d6&label=StackOverFlow%20Reputation)](https://stackoverflow.com/users/14157851/sumit-kumar)
-[![GitHub Followers](https://img.shields.io/github/followers/sumitkumarcoding?color=08d9d6&label=Github%20Followers)](https://github.com/SumitKumarCoding)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sumitkumarcoding?color=08d9d6&label=Reddit%20Karma)](https://www.reddit.com/user/SumitKumarCoding)
-[![Gmail](https://img.shields.io/badge/Gmail-SumitKumarCoding-08d9d6?)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sumitkumarcoding@gmail.com&tf=1)
+[![Discord](https://img.shields.io/discord/790214708694089739?color=7289DA&label=Discord%20Server&style=for-the-badge&logo=discord)](https://dsc.gg/cp)
+[![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/14157851?color=fe7a16&label=StackOverFlow%20Reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/14157851/sumit-kumar)
+[![GitHub Followers](https://img.shields.io/github/followers/sumitkumarcoding?color=181717&label=Github%20Followers&style=for-the-badge&logo=github)](https://github.com/SumitKumarCoding)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sumitkumarcoding?color=FF4500&label=Reddit%20Karma&logo=reddit&style=for-the-badge)](https://www.reddit.com/user/SumitKumarCoding)
+[![Gmail](https://img.shields.io/badge/Gmail-Sumit_Kumar-D14836?&logo=gmail&style=for-the-badge)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sumitkumarcoding@gmail.com&tf=1)
 
 ### My Setup:
 [![Processor](https://img.shields.io/badge/Intel-Pentium_4405u_-08d9d6?style=for-the-badge&logo=intel&logoColor=white)](#)
@@ -49,6 +49,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SumitKumarCoding's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumitkumarcoding&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img align="left" alt="SumitKumarCoding's GitHub Stats" src="https://github-readme-stats.sumitkumarcoding.vercel.app/api?username=sumitkumarcoding&show_icons=true&hide_border=true&theme=gruvbox" />
 
 </details>
