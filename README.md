@@ -44,9 +44,9 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/SumitKumarCoding/CodingBat/issues/3) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-2. 🎉 Merged PR [#4](https://github.com/SumitKumarCoding/CodingBat/pull/4) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-3. ❗️ Opened issue [#3](https://github.com/SumitKumarCoding/CodingBat/issues/3) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+1. ❗️ Opened issue [#6](https://github.com/SumitKumarCoding/CodingBat/issues/6) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+2. 🎉 Merged PR [#5](https://github.com/SumitKumarCoding/CodingBat/pull/5) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+3. ❗️ Closed issue [#3](https://github.com/SumitKumarCoding/CodingBat/issues/3) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
 <!--END_SECTION:activity-->
 
 </details>  
