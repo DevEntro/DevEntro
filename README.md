@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![Discord](https://img.shields.io/discord/790214708694089739?color=7289DA&label=Discord%20Server&style=for-the-badge&logo=discord)](https://dsc.gg/cp)
+[![Discord](https://img.shields.io/discord/790214708694089739?color=7289DA&label=Discord%20Server&style=for-the-badge&logo=discord)](https://dsc.gg/leafyserver)
 [![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/14157851?color=fe7a16&label=StackOverFlow%20Reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/14157851/sumit-kumar)
 [![GitHub Followers](https://img.shields.io/github/followers/sumitkumarcoding?color=181717&label=Github%20Followers&style=for-the-badge&logo=github)](https://github.com/SumitKumarCoding)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sumitkumarcoding?color=FF4500&label=Reddit%20Karma&logo=reddit&style=for-the-badge)](https://www.reddit.com/user/SumitKumarCoding)
