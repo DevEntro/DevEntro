@@ -44,9 +44,9 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SumitKumarCoding/CodingBat/pull/11) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-2. 🎉 Merged PR [#10](https://github.com/SumitKumarCoding/CodingBat/pull/10) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
-3. 🎉 Merged PR [#9](https://github.com/SumitKumarCoding/CodingBat/pull/9) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+1. 💪 Opened PR [#1](https://github.com/Nishank1212/Gaara-discord-bot/pull/1) in [Nishank1212/Gaara-discord-bot](https://github.com/Nishank1212/Gaara-discord-bot)
+2. 🎉 Merged PR [#11](https://github.com/SumitKumarCoding/CodingBat/pull/11) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+3. 🎉 Merged PR [#10](https://github.com/SumitKumarCoding/CodingBat/pull/10) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
 <!--END_SECTION:activity-->
 
 </details>  
