@@ -44,9 +44,9 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/AyushSehrawat/leafy-bot/pull/6) in [AyushSehrawat/leafy-bot](https://github.com/AyushSehrawat/leafy-bot)
-2. 💪 Opened PR [#1](https://github.com/Nishank1212/Gaara-discord-bot/pull/1) in [Nishank1212/Gaara-discord-bot](https://github.com/Nishank1212/Gaara-discord-bot)
-3. 🎉 Merged PR [#11](https://github.com/SumitKumarCoding/CodingBat/pull/11) in [SumitKumarCoding/CodingBat](https://github.com/SumitKumarCoding/CodingBat)
+1. ❗️ Opened issue [#1](https://github.com/DevEntro/discord-bugs-exploits/issues/1) in [DevEntro/discord-bugs-exploits](https://github.com/DevEntro/discord-bugs-exploits)
+2. 💪 Opened PR [#6](https://github.com/AyushSehrawat/leafy-bot/pull/6) in [AyushSehrawat/leafy-bot](https://github.com/AyushSehrawat/leafy-bot)
+3. 💪 Opened PR [#1](https://github.com/Nishank1212/Gaara-discord-bot/pull/1) in [Nishank1212/Gaara-discord-bot](https://github.com/Nishank1212/Gaara-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>  
